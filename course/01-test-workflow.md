@@ -107,7 +107,7 @@ Lab link: TODO
 
 # What You Learned
 
-- Executed a sample test workflow and validate pipeline integrity
+- Executed a sample test workflow and validated pipeline integrity
 - Reviewed pipeline architecture and key concepts
 - Verified execution results against expected outcomes
 - Completed the hands-on test workflow activity
@@ -187,7 +187,7 @@ Your team wants to disable verification checks on staging environments to speed 
 - Clear ownership and review for pipeline configuration
 
 ### Watch For
-- "We trust our code so we do not need checks"
+- “We trust our code so we do not need checks”
 - Bypassing tests permanently for temporary speed gains
 - Lack of rollback or monitoring plans
 
